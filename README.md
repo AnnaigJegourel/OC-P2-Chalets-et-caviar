@@ -15,11 +15,13 @@ LIVRABLES :
 
 SOUTENANCE :
 La soutenance, d’une durée maximum de 30 minutes, se déroulera en 3 étapes :
-🗣 Présentation des livrables (15 minutes) (+/- 5 minutes)
+🎤 Présentation des livrables (15 minutes) (+/- 5 minutes)
 💬 Discussion (10 minutes) 
-🎤 Debriefing (5 minutes)
+🗣 Debriefing (5 minutes)
 
 COMPÉTENCES : 
 ✅ Rédiger une documentation à l'intention d'utilisateurs non spécialistes
 ✅ Sélectionner un thème Wordpress adapté aux besoins du client
 ✅ Adapter un thème Wordpress pour respecter les exigences du client
+
+🎉 Projet validé le 16 avril 2022 🎉
