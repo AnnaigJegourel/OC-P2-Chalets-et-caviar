@@ -6,8 +6,7 @@ INTÉGRER UN THÈME WORDPRESS POUR UNE CLIENTE
 
 Contexte :
 
-Vous venez de vous lancer en tant que développeuse freelance et vous avez décroché votre premier contrat.
-Votre cliente est l’agence immobilière “Chalets et caviar” de Courchevel, qui possède une quinzaine de chalets de luxe à la vente et une vingtaine en location.
+Pour votre premier contrat en tant que free lance, votre cliente est l’agence immobilière “Chalets et caviar” de Courchevel, qui possède une quinzaine de chalets de luxe à la vente et une vingtaine en location.
 Cependant, elle ne possède pas encore de site web pour promouvoir la vente et la location de ses chalets. 
 Vous rencontrez Marie, la directrice de l’agence, lors d’une première réunion, suivie d'un échange de mails.
 
